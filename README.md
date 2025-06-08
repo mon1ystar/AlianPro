@@ -1,4 +1,4 @@
-# Code Execution Manual for FACC
+# Code Execution Manual for AlignPro
 
 ## Paper Information
 
